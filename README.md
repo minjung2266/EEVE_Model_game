@@ -1,2 +1,1 @@
-# EEVE_Model_game
-skn 개인프로젝트(LLM)
+# 다마일기 : 다마고치의 성장일기🌱
