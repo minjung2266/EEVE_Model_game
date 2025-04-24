@@ -8,12 +8,10 @@
 2025.04.20 ~ 2025.04.25
 
 ### 🛠️ 기술 스택
-| 구분 | 사용 기술 |
-|------|-----------|
-| 언어 | Python |
-| 인터페이스 | Jupyter Notebook, Streamlit |
-| 모델 | Ollama + EEVE-Korean-10.8B |
-| 기타 | random 모듈, 세션 상태 관리 (`st.session_state`) |
+<p align="left"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/EEVE_Korean_10.8B-FFD400?style=for-the-badge&logoColor=black"/> </p>
+
 
 ### 🧷WBS
 | 작업명 | 작업 내용 | 산출물 | 날짜 |
@@ -67,7 +65,40 @@
 ```
 
 ### 📺시연 예시
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/461ee3f2-6f1c-485d-af49-7537d84bd8d7" width="400"/><br/>
+      <sub>초기화면</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ef082cc4-b40b-440d-b225-9d6b66c48bad" width="400"/><br/>
+      <sub>초기화면 (행동 비활성화)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c8657d34-ec79-4ae4-8857-b56c8599ea03" width="400"/><br/>
+      <sub>유저 입력 후 메세지</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/85d496d9-b6c3-4926-9f13-f5e9bb754479" width="400"/><br/>
+      <sub>다마 상태 업데이트</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9caa17e8-122c-45f8-b7bf-d12b4fc6fab4" width="400"/><br/>
+      <sub>엔딩 옵션</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/06641f8c-7adc-4da7-a643-568a5051b5ad" width="400"/><br/>
+      <sub>엔딩 화면</sub>
+    </td>
+  </tr>
+</table>
 
+----
 
 ### ☺️ 회고
 #### 잘한점
