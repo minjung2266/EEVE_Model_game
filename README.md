@@ -25,6 +25,8 @@
 | 엔딩기능 추가 | 성장 조건 도달 시 엔딩 처리 및 상태 초기화 | 엔딩 조건 지정 | 2025-04-24 |
 | 시연준비 | 리드미 작성 및 발표 준비 | readme 자료 | 2025-04-23 ~ 2025-04-24 |
 
+---- 
+
 ### 🎮 게임 규칙
 1. 이름 설정 : 다마고치의 이름을 설정합니다. (미입력 시 행동버튼 비활성화)
 2. 다마고치 돌보기 : 현재 다마고치의 상태에 따라 행동버튼을 클릭하여 교감합니다.
@@ -44,6 +46,8 @@
 | 엔딩 조건 판별 | 친밀도 기준 도달 시 성장 엔딩 출력 |
 | 초기화 및 재시작 기능 | 엔딩 후 상태 초기화 및 새 게임 시작 |
 | Streamlit 기반 UI | 세션 상태 반영형 웹 인터페이스 구성 |
+
+---- 
 
 ### 🧠 프롬프트 예시 
 ```
@@ -91,10 +95,12 @@
       <img src="https://github.com/user-attachments/assets/9caa17e8-122c-45f8-b7bf-d12b4fc6fab4" width="400"/><br/>
       <sub>엔딩 옵션</sub>
     </td>
-    <td align="center">
+    <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/06641f8c-7adc-4da7-a643-568a5051b5ad" width="400"/><br/>
       <sub>엔딩 화면</sub>
     </td>
+</td>
+
   </tr>
 </table>
 
