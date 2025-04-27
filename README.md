@@ -129,31 +129,31 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/461ee3f2-6f1c-485d-af49-7537d84bd8d7" width="400"/><br/>
-      <sub>초기화면</sub>
+      <img src="https://github.com/user-attachments/assets/21efcdf9-455e-4b4e-bf63-b6b0c6912acf" width="400"/><br/>
+      <sub>초기화면(행동 비활성화)</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ef082cc4-b40b-440d-b225-9d6b66c48bad" width="400"/><br/>
-      <sub>초기화면 (행동 비활성화)</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/c8657d34-ec79-4ae4-8857-b56c8599ea03" width="400"/><br/>
+      <img src="https://github.com/user-attachments/assets/878def53-8aed-4795-acb4-2855990ea9e9" width="400"/><br/>
       <sub>유저 입력 후 메세지</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/85d496d9-b6c3-4926-9f13-f5e9bb754479" width="400"/><br/>
-      <sub>다마 상태 업데이트</sub>
+      <img src="https://github.com/user-attachments/assets/d8b7b6dc-ac33-4f3d-98ed-5cbacabfcadb" width="400"/><br/>
+      <sub>행동에 따른 리액션 / 상태 메시지</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/91303bed-e567-49bf-a3a6-8fea5de5577f" width="400"/><br/>
+      <sub>다마고치와 놀기 기능</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/9caa17e8-122c-45f8-b7bf-d12b4fc6fab4" width="400"/><br/>
-      <sub>엔딩 옵션</sub>
+      <img src="https://github.com/user-attachments/assets/952839e1-20e7-4b2c-95bc-059668d2f2d3" width="400"/><br/>
+      <sub>놀아주기 이후 상태 (지면 부정 이기면 긍정)</sub>
     </td>
     <td align="center" valign="bottom">
-      <img src="https://github.com/user-attachments/assets/06641f8c-7adc-4da7-a643-568a5051b5ad" width="400"/><br/>
+      <img src="https://github.com/user-attachments/assets/fa3d1050-474c-4ee3-9fb7-189c08fe5711" width="400"/><br/>
       <sub>엔딩 화면</sub>
     </td>
 </td>
