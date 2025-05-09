@@ -184,4 +184,34 @@
 - 단순 버튼 기반 반응 구조를 제거하고, 사용자 입력을 기반으로 LLM이 자율적으로 감정 표현을 생성하도록 개선
 - 보다 자연스럽고 감정에 공감하는 반응 생성을 위해, OpenChat, Zephyr, LLaMA2-Chat 등 감성 대화에 최적화된 모델로 대체 계획
 
+- 예시
+```
+# 키워드 기반 상태 변화 규칙
+def update_state_from_input(user_input, state):
+    if "밥" in user_input:
+        state["배부름"] = min(100, state["배부름"] + 20)
+        state["기분"] = min(100, state["기분"] + 10)
+
+    if "씻" in user_input or "샤워" in user_input:
+        state["청결"] = min(100, state["청결"] + 30)
+        state["기분"] = min(100, state["기분"] + 5)
+
+    if "혼냈" in user_input or "화냈" in user_input:
+        state["분노"] = min(100, state["분노"] + 20)
+        state["친밀도"] = max(0, state["친밀도"] - 10)
+        state["기분"] = max(0, state["기분"] - 10)
+
+    if "병원" in user_input:
+        state["건강"] = min(100, state["건강"] + 30)
+        state["기분"] = min(100, state["기분"] + 5)
+
+    if "놀" in user_input or "산책" in user_input:
+        state["기분"] = min(100, state["기분"] + 15)
+        state["외로움"] = max(0, state["외로움"] - 20)
+        state["친밀도"] = min(100, state["친밀도"] + 10)
+
+    # 기타 상황 업데이트 생략 가능
+    return state
+```
+
 
