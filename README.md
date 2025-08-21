@@ -139,7 +139,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/d8b7b6dc-ac33-4f3d-98ed-5cbacabfcadb" width="400"/><br/>
+      <img src="https://github.com/user-attachments/assets/d2a0723e-2e0f-4c40-ad1d-95adfaf788be" width="400"/><br/>
       <sub>행동에 따른 리액션 / 상태 메시지</sub>
     </td>
     <td align="center">
@@ -149,7 +149,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/952839e1-20e7-4b2c-95bc-059668d2f2d3" width="400"/><br/>
+      <img src="https://github.com/user-attachments/assets/96dd89d5-c9b1-432b-a82f-e4e7f3a41b9a" width="400"/><br/>
       <sub>놀아주기 이후 상태 (지면 부정 이기면 긍정)</sub>
     </td>
     <td align="center" valign="bottom">
